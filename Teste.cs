@@ -12,7 +12,7 @@
 
         Console.WriteLine($"\nOlá, {nome}! Tens {idade} anos.");
         
-        Console.WriteLine("\nPrima qualquer tecla para sair...");
+       
         Console.ReadKey();
         }
     }
