@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\Forma\u00E7\u00E3o\\SEGURAN\u00C7A NO DESENVOLVIMENTO DE\\Tarefa04_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA06896-3BB9-4EEB-948F-81723C140F3C}|Tarefa_04\\Tarefa_04.csproj|c:\\users\\anton\\desktop\\forma\u00E7\u00E3o\\seguran\u00E7a no desenvolvimento de\\tarefa04_a\\tarefa_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA06896-3BB9-4EEB-948F-81723C140F3C}|Tarefa_04\\Tarefa_04.csproj|solutionrelative:tarefa_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Forma\u00E7\u00E3o\\SEGURAN\u00C7A NO DESENVOLVIMENTO DE\\Tarefa04_A\\Tarefa_04\\Program.cs",
+              "RelativeDocumentMoniker": "Tarefa_04\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Forma\u00E7\u00E3o\\SEGURAN\u00C7A NO DESENVOLVIMENTO DE\\Tarefa04_A\\Tarefa_04\\Program.cs",
+              "RelativeToolTip": "Tarefa_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:49:20.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
